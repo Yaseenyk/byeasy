@@ -3,7 +3,6 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Homepage from './pages/Homepage';
 import Signup from './auth/Signup';
 import Signin from './auth/Signin';
-import { useEffect, useState } from 'react';
 
 function App() {
 

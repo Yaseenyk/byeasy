@@ -1,0 +1,52 @@
+.main-container{
+    width: 80%;
+    height: 100%;
+    /* border: 1px solid; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+/* border:1px solid; */
+display:flex;
+justify-content: center;
+align-items: center;
+}
+.logo-png{
+    height: 7vh;
+}
+.redirection-links{
+    width: 20%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight:600;
+    font-size: 20px;
+    font-family: cursive;
+}
+.HomeLink{
+    height: 5vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* border: 1px solid; */
+    width:5vw;
+    cursor: pointer;
+}
+.SigninLink{
+    height:5vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* border: 1px solid; */
+    width:5vw;
+    cursor: pointer;
+}
+
+.HomepageLogo{
+    height: 5vh;
+}
+.SigninLogo{
+    height: 5vh;
+}
